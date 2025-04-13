@@ -17,7 +17,7 @@ const content = [
   },
   { name: "Noise", link: "https://msulsal.github.io/noise/" },
   { name: "Vectors", link: "https://msulsal.github.io/vectors/" },
-  { name: "Force", link: "https://msulsal.github.io/forces/" },
+  { name: "Forces", link: "https://msulsal.github.io/forces/" },
 ];
 
 export default content;
